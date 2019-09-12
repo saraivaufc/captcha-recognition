@@ -2,6 +2,8 @@
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/272198b96453415ebc1416b14f7a8f54)](https://www.codacy.com/manual/saraivaufc/captcha-recognition?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=saraivaufc/captcha-recognition&amp;utm_campaign=Badge_Grade)
 
+Dataset: https://www.kaggle.com/bongq417/captcha#train.zip (65669 files)
+
 ### Create and activate a virtual environment:
 
 ```
